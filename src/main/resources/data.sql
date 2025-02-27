@@ -6,7 +6,7 @@ insert into
         conversion_multiple
     )
 values
-(10001, 'USD', 'INR', 65);
+(10001, 'USD', 'INR', 60);
 
 insert into
     currency_exchange (
